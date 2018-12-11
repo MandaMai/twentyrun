@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'rollerFinal';
+  title = 'My Virtual 20-sided Dice';
 }
